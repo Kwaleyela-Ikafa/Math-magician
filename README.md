@@ -20,6 +20,7 @@ To get a local copy up and running follow these simple example steps.
 - git clone https://github.com/Kwaleyela-Ikafa/Math-magician.git
 - cd Math-magician
 - npm install
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
