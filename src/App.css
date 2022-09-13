@@ -1,0 +1,60 @@
+.cacl-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 8rem auto;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color:black;
+  padding: 10px 10px;
+  color: white;
+  font-weight: 600;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+}
+
+.navbar ul > li {
+  padding: 5px 10px;
+  font-size: 20px;
+  border-right: 1px solid white;
+}
+
+.navbar ul > li:last-child {
+  border-right: none;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+.container {
+  text-align: center;
+  margin: 5rem auto;
+}
+
+.container h1 {
+  font-weight: 600;
+  letter-spacing: 1px;
+  font-style: italic;
+}
+
+.container p {
+  letter-spacing: 1px;
+  padding: 3rem;
+  line-height: 1.3rem;
+}
+
+.container h3 {
+  background: #e4e4e4;
+  padding: 1.5rem;
+  margin: 3rem 10rem;
+  border-radius: 2rem;
+}
