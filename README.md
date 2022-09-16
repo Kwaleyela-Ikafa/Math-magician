@@ -66,6 +66,11 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 - Twitter: [@K_Ikafa](https://twitter.com/K_Ikafa)
 - LinkedIn: [LinkedIn](https://zm.linkedin.com/in/kwaleyela-musilizo-ikafa-abaa1a20b?trk=people-guest_people_search-card)
 
+## Contributor
+
+👤 **Bakhtiyor Yusubaliyev**
+- GitHub: [@bakhtiyorY](https://github.com/githubhandle)
+- Twitter: [@bakhtiyor-yusubali](https://twitter.com/twitterhandle)
 
 ## 🤝 Contributing
 
