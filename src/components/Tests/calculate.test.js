@@ -1,5 +1,7 @@
+/* eslint-disable linebreak-style */
 import calculate from '../../logic/calculate';
 import operate from '../../logic/operate';
+
 describe('Test calculate & oprrate', () => {
   test('Check if operate returns the correct answer', () => {
     const result = operate(10, 5, '-');
