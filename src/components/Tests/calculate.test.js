@@ -12,4 +12,19 @@ describe('Test calculate & oprrate', () => {
     const result = calculate(obj, '=');
     expect(result.total).toBe('10');
   });
+  test('Check if calculate returns the correct answer', () => {
+    const obj = { total: 10, operation: '÷', next: 2 };
+    const result = calculate(obj, '=');
+    expect(result.total).toBe('5');
+  });
+  test('Check if calculate returns the correct answer', () => {
+    const obj = { total: 10, operation: 'x', next: 2 };
+    const result = calculate(obj, '=');
+    expect(result.total).toBe('20');
+  });
+  test('Check if calculate returns the correct answer', () => {
+    const obj = { total: 8, operation: '%', next: 5 };
+    const result = calculate(obj, '=');
+    expect(result.total).toBe('3');
+  });
 });
